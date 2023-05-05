@@ -1,0 +1,4 @@
+http://www.mysite.com/file.html
+ftp://10.9.9.71/file.zip
+http://another.site.com/%7Euler/index.html#rif33
+nntp://news.site.ch:8181/data/
